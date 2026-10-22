@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    background-color: rgb(0, 157, 255);
+    width: 100%;
+    border: 2px solid black;
+}
+
+@media(max-width:500px){
+    div{
+      
+        background-color:brown;
+    }
+}
